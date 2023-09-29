@@ -1,4 +1,4 @@
-**Documentation: SlotAnimationView and InfiniteScroller**
+# Documentation: SlotAnimationView and InfiniteScroller
 **Overview**
 SlotAnimationView is a SwiftUI view that displays a list of items in a slot machine-like animation. It leverages the InfiniteScroller view to achieve the infinite scrolling effect.
 
